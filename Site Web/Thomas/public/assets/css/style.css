@@ -1,0 +1,208 @@
+html {
+
+background-color: #72CEFF;
+font-family: 'Exo 2', sans-serif;
+
+}
+
+*{
+	padding:  0px;
+
+}
+.navbar {
+
+
+	background-color: #A5ADFF;
+	list-style: none;
+	width: auto;
+}
+
+.navbar .logo img {
+
+	display: block;
+	margin : auto;
+
+}
+
+.navbar .nav {
+
+	display: flex;
+	justify-content: space-around;
+	
+
+}
+
+.navbar .nav .item {
+
+	display: block;
+
+}
+
+
+
+#Blocs {
+
+
+	display: inline-block;
+	padding-left: 95px;
+}
+
+
+#outer1 {
+	background-color: #A5ADFF;
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #5968FF;
+    height: 50px;
+    width:auto;
+    display:inline-block;
+}
+
+#image1 {
+    float: left;
+    width: 50px;
+}
+
+
+
+
+
+#outer2 {
+	background-color: #A5ADFF;
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #5968FF;
+    height: 50px;
+    width:auto;
+    display:inline-block;
+}
+
+#image2 {
+    float: left;
+    width: 50px;
+}
+
+
+
+#outer3 {
+	background-color: #A5ADFF;
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #5968FF;
+    height: 50px;
+    width:auto;
+    display:inline-block;
+}
+
+#image3 {
+    float: left;
+    width: 50px;
+}
+
+
+#outer4 {
+	background-color: #A5ADFF;
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #5968FF;
+    height: 50px;
+    width:auto;
+    display:inline-block;
+}
+
+#image4 {
+    float: left;
+    width: 50px;
+}
+
+
+
+#outer5 {
+	background-color: #A5ADFF;
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #5968FF;
+    height: 50px;
+    width:auto;
+    display:inline-block;
+}
+
+#image5 {
+    float: left;
+    width: 50px;
+}
+
+#footer{ 
+    height: 50px; 
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20px;
+	text-align: center;
+  
+}
+
+#footer1 {
+	
+    text-align: center;
+    height: 50px;
+    width:auto;
+    display:inline-block;
+}
+
+#fimage1 {
+    float: left;
+    width: 50px;
+}
+
+#footer2 {
+    text-align: center;
+    height: 50px;
+    width:auto;
+    display:inline-block;
+}
+
+#fimage2 {
+    float: left;
+    width: 50px;
+}
+
+#footer3 {
+    text-align: center;
+    height: 50px;
+    width:auto;
+    display:inline-block;
+}
+
+#fimage3 {
+    float: left;
+    width: 50px;
+}
+
+#footer4 {
+    text-align: center;
+    height: 50px;
+    width:auto;
+    display:inline-block;
+}
+
+#fimage4 {
+    float: left;
+    width: 50px;
+}
+
+#footer5 {
+    text-align: center;
+    height: 50px;
+    width:auto;
+    display:inline-block;
+}
+
+#fimage5 {
+    float: left;
+    width: 50px;
+}
