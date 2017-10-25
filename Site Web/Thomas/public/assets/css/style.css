@@ -28,7 +28,7 @@ font-family: 'Exo 2', sans-serif;
 
 	display: flex;
 	justify-content: space-around;
-	
+
 
 }
 
@@ -137,17 +137,17 @@ font-family: 'Exo 2', sans-serif;
     width: 50px;
 }
 
-#footer{ 
-    height: 50px; 
+#footer{
+    height: 50px;
 	margin-right: auto;
 	margin-left: auto;
 	margin-top: 20px;
 	text-align: center;
-  
+
 }
 
 #footer1 {
-	
+
     text-align: center;
     height: 50px;
     width:auto;
@@ -205,4 +205,14 @@ font-family: 'Exo 2', sans-serif;
 #fimage5 {
     float: left;
     width: 50px;
+}
+
+#yeux{
+    position:absolute;
+		left: 587px;
+		top: 137px;
+		border-radius: 50%;
+    width: 19px;
+    height: 19px;
+    background: #000;
 }

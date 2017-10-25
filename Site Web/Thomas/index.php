@@ -1,5 +1,15 @@
-<?php include './app/views/parts/header.php' ?>
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+    <link rel="stylesheet" href="public/assets/css/style.css" />
+    <link href="https://fonts.googleapis.com/css?family=Exo+2" rel="stylesheet">
 
+
+	<title>Cours de Langue</title>
+</head>
+<body>
+<?php include './app/views/parts/header.php' ?>
 
 <div id="Blocs">
 
@@ -26,3 +36,6 @@
 
 
 <?php include './app/views/parts/footer.php' ?>
+<script type="text/javascript" src="public/assets/script/script.js"></script>
+</body>
+</html>
